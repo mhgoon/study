@@ -13,12 +13,12 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-This is tempalte file for configuration.
-Please copy as `application.yml` and change your value.
+#This is tempalte file for configuration.
+#Please copy as `application.yml` and change your value.
 
 line.bot:
-  channel-token: 'Put Your Channel Token Here.'
-  channel-secret: 'Put Your Channel Secret Here.'
+  channel-token: 'f2dEGASjB8uUY8idv8hvuhviM4cOaX6LE1UNuEjkphxIaTmN4D05E+u7K2bvxLiAM+QbPyB3z0pRSaUpOY0d3oI/qR8TBfT8CwgvHX9SJoMzyGTy5gzubaY0hxnn4l1GAUs3dQpnmqQGxM+3K3RcnwdB04t89/1O/w1cDnyilFU='
+  channel-secret: 'f7c16d6c5f87908424830fc9561c6971'
   handler.path: /callback
 
 # To remove Client wire logs. Please comment out following lines.
